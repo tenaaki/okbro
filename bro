@@ -6,7 +6,7 @@ game.StarterGui:SetCore("SendNotification", {
   
 
 local Config = {
-    WindowName = "cultware.cc (from tenaki and flash)",
+    WindowName = "cultware.cc (from tenaki)",
 	Color = Color3.fromRGB(255,255,255),
 	Keybind = Enum.KeyCode.RightShift
 }
